@@ -289,6 +289,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="ClassDiagram1.cd" />
     <None Include="Properties\PublishProfiles\hlee211-wa2020a5 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\janelee-musicon - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
